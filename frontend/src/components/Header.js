@@ -7,8 +7,8 @@ const Header = () => {
       <div className="container mx-auto px-4 flex items-center justify-between">
         <div className="flex items-center space-x-2">
           <div className="text-2xl font-bold text-black flex items-center">
-            <span className="mr-1">▲</span>
-            rocket
+            <span className="mr-1">🚀</span>
+            space.AI
           </div>
           <span className="bg-gray-200 text-gray-600 text-xs px-2 py-1 rounded-full font-medium">
             BETA
