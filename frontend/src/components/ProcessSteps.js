@@ -5,7 +5,7 @@ const ProcessSteps = () => {
   const steps = [
     {
       title: 'Prompt',
-      description: 'Ask Rocket in your natural language or give requirements. Or import Figma URL/file to convert.',
+      description: 'Ask space.AI in your natural language or give requirements. Or import Figma URL/file to convert.',
       icon: '💬'
     },
     {
