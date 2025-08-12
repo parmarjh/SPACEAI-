@@ -10,7 +10,7 @@ const ProcessSteps = () => {
     },
     {
       title: 'Develop', 
-      description: 'Rocket will generate stunning and well researched website/app or convert your design into code.',
+      description: 'space.AI will generate stunning and well researched website/app or convert your design into code.',
       icon: '⚡'
     },
     {
