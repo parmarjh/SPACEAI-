@@ -1,4 +1,4 @@
-// Mock data for rocket.new clone
+// Mock data for space.AI clone
 export const mockAppTypes = [
   'Web App',
   'Mobile App', 
