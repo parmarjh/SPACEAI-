@@ -83,7 +83,7 @@ const HeroSection = () => {
       <div className="max-w-4xl mx-auto mb-8">
         <div className="bg-white rounded-xl border border-gray-200 shadow-lg p-6">
           <Textarea
-            placeholder="What can Rocket build for you today?"
+            placeholder="What can space.AI build for you today?"
             value={prompt}
             onChange={(e) => setPrompt(e.target.value)}
             className="min-h-[200px] text-lg border-none resize-none focus:ring-0 placeholder:text-gray-400"
