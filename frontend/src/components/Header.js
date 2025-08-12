@@ -17,7 +17,7 @@ const Header = () => {
         
         <nav className="hidden md:flex items-center space-x-8">
           <a href="#" className="text-gray-600 hover:text-gray-900 transition-colors">
-            Built with Rocket
+            Built with space.AI
           </a>
           <a href="#" className="text-gray-600 hover:text-gray-900 transition-colors">
             Compare
